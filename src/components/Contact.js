@@ -95,7 +95,7 @@ function Contact() {
                         field="message"
                         errors={state.errors}
                     />
-                    <button type="submit" disabled={state.submitting} className="text-white bg-indigo-500 w-full border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                    <button type="submit" disabled={state.submitting} className="text-white bg-indigo-500 m-1 w-full border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                         Submit
                     </button>
                 </form>
