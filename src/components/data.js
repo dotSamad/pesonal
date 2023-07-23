@@ -41,5 +41,7 @@ export const skills = [
   "Python",
   "C/C++",
   "Git/Github",
-  "MySql"
+  "MySql",
+  "BootStrap",
+  "Tailwind"
 ];
