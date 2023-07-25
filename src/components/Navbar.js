@@ -17,7 +17,7 @@ export default function Navbar() {
               Skills
             </a>
             <a href="#testimonials" className="mr-5 hover:text-white">
-              Wrok Experience
+              Work Experience
             </a>
           </nav>
           <a
