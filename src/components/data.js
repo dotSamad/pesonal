@@ -20,6 +20,13 @@ export const projects = [
     description:"Developed a responsive React news app that fetches the latest news daily,integrating with an API for up-to-date information.",
     imagelink: "https://ik.imagekit.io/tyz89rcck/newsapp.jpg?updatedAt=1690024249479",
     link: "https://checkbrain.netlify.app/",
+  },
+  {
+    title: "Skill Hunt",
+    subtitle: "ReactJs, Redux, API",
+    description:"Created a Job portal website front-end (only desktop view) using Reactjs and Tailwind Css.",
+    imagelink: "https://ik.imagekit.io/tyz89rcck/Screenshot%202023-08-06%20160137.png?updatedAt=1691318162782",
+    link: "https://skillhunter.netlify.app/",
   }
 ];
 
